@@ -1,10 +1,8 @@
 
 <html>
 <body>
-<h2>My first Webapp  </h2>
-<h2>It's possible !!!</h2>
-<h2>It's possible !!!</h2>
-<h2>It's possible !!!</h2>
+<h2>This is auto build and deployment after commit  </h2>
+
 
 </body>
 </html>
